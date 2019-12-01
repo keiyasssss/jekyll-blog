@@ -12,7 +12,7 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: This blog!
 project_one_description: Keiya's personal webpage.
-project_one_url: https://github.com/keiyasssss/jekyll-blog/
+project_one_url: https://keiyasssss.github.io/jekyll-blog/
 project_one_icon: location_on
 
 portfolio_heading: Portfolio
