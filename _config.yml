@@ -3,7 +3,7 @@ name: Keiyas
 email: eduardo.edu.hdez@gmail.com
 description: Hello there! I'm Keiyas a Canary DevOps based in Barcelona. 
 baseurl: "/blog"
-url: ""
+url: "https://keiyasssss.github.io/jekyll-blog/"
 
 display_footer: none
 
@@ -68,7 +68,7 @@ project_button: Github
 github: https://github.com/keiyasssss/jekyll-blog/
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
-url: http://localhost:4000/ #the url of your site
+url: https://keiyasssss.github.io/jekyll-blog/ #the url of your site
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 tag_manager_id: # This looks something like GTM-XXXXXXX
