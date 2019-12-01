@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
-ruby '2.6'
+ruby '2.6.5'
 
 gem 'materialize-sass'
-gem "jekyll", "~> 3.6"
+gem "jekyll", "~> 3.6.2"
 gem "minima", "~> 2.0"
 gem 'rspec'
 gem 'capybara'
