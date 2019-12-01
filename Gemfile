@@ -11,6 +11,7 @@ gem "selenium-webdriver"
 gem "rack-jekyll"
 gem "pry"
 gem "puma"
+gem "rb-fsevent", "0.9.8"
 
 
 group :jekyll_plugins do
