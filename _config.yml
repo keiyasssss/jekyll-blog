@@ -2,7 +2,7 @@ title: Keiya's Blog
 name: Keiyas 
 email: eduardo.edu.hdez@gmail.com
 description: Hello there! I'm Keiyas a Canary DevOps based in Barcelona. 
-baseurl: "/blog"
+baseurl: "https://keiyasssss.github.io/jekyll-blog/"
 url: "https://keiyasssss.github.io/jekyll-blog/"
 
 display_footer: none
