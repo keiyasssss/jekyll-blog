@@ -5,7 +5,7 @@ describe "Website Loads Up", type: :feature, js: true do
   it "has the page title" do
     visit '/'
 
-    expect(page).to have_content('Your awesome title')
+    expect(page).to have_content("I'm Keiyas a Canary DevOps")
     expect(page).to have_content('Portfolio')
 
   end
